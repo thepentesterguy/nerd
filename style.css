@@ -25,6 +25,7 @@ ul {
     margin: 4px;
     padding: 8px;
     background-color: yellow;
+    border: none;
     border-radius: 10px;
     color: black;
 }
